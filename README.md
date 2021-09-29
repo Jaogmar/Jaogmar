@@ -9,8 +9,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaogmar&layout=compact&count_private=true&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Jao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+  <img align="center" alt="Jao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="Jao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Jao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="right" alt="Jao-pic" height="150" width="150" style="border-radius:50px;" 
 src="https://cdn.discordapp.com/attachments/855920734643552277/892599431260688444/unknown.png" src="https://github.com/Jaogmar">
 </div>
