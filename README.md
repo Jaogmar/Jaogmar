@@ -1,7 +1,8 @@
 ## Sou João Gabriel, vai um chimas? 🧉
 
- - 📚 Aprendendo CSharp e .Net
- - 🐍 Júnior em Python
+ - 📚 CSharp e .Net
+ - 🐍 Python
+ - 🟨 Vue.js e JS
 
 <div align="center">
   <a href="https://github.com/Jaogmar">
