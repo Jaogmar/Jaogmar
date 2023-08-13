@@ -1,5 +1,6 @@
-## Sou João Gabriel, vai um chimas? 🧉
+## Sou João Gabriel 🧉
 
+Linguagens que já trabalhei
  - 📚 CSharp e .Net
  - 🐍 Python
  - 🟨 Vue.js e JS
